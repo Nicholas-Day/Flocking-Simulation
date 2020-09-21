@@ -1,0 +1,49 @@
+﻿  text.cpp
+  final_demo.cpp
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(30): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(33): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(226): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(227): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(228): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(234): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(235): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(236): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(244): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(299): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(301): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(302): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(303): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(304): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(319): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(320): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(321): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(330): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(331): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(332): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(337): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(338): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(339): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(421): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(423): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(425): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(427): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(628): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(675): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(677): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(498): warning C4101: 'vel_mag': unreferenced local variable
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(896): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(898): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(959): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(1089): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(1089): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+c:\users\p-day\documents\visual studio 2015\projects\final_demo\final_demo\final_demo.cpp(1413): warning C4172: returning address of local variable or temporary: VAO_out
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  final_demo.vcxproj -> c:\users\p-day\documents\visual studio 2015\Projects\final_demo\Debug\final_demo.exe
+  final_demo.vcxproj -> c:\users\p-day\documents\visual studio 2015\Projects\final_demo\Debug\final_demo.pdb (Full PDB)
